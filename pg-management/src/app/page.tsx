@@ -220,7 +220,7 @@ export default function HomePage() {
             >
               <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-3xl overflow-hidden border-8 border-white shadow-2xl">
                 <img 
-                  src="/images/owner.jpg" 
+                  src="/images/PHOTO-2026-03-11-23-05-28.png" 
                   alt="PG Owner" 
                   className="object-cover w-full h-full"
                   onError={(e) => {
